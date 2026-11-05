@@ -14,7 +14,7 @@ in ue5 using Bp(blueprint) i can build any system that i imagen didecated search
 
 ### Learning
 - C++
-
+- Rust
 ### Future plans
 - Cinematic design
 
